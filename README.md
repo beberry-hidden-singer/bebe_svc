@@ -2,6 +2,7 @@
 stripped-down version of [TransformerSVC](https://github.com/open-mmlab/Amphion/tree/main/egs/svc/TransformerSVC) from Amphion
 
 ## Setup
+* ffmpeg
 * Python 3.10
 * CUDA 12.1
   * NOTE: Amphion requires CUDA 11.8

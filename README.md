@@ -1,12 +1,12 @@
 # bebe-svc
-based on [TransformerSVC](https://github.com/open-mmlab/Amphion/tree/main/egs/svc/TransformerSVC) from Amphion
+stripped-down version of [TransformerSVC](https://github.com/open-mmlab/Amphion/tree/main/egs/svc/TransformerSVC) from Amphion
 
 ## Setup
 * Python 3.10
 * CUDA 12.1
   * NOTE: Amphion requires CUDA 11.8
 
-### [SVC Corpora]((https://github.com/open-mmlab/Amphion/blob/main/egs/datasets/README.md))
+### [SVC Corpora](https://github.com/open-mmlab/Amphion/blob/main/egs/datasets/README.md)
 1. [VCTK](https://github.com/open-mmlab/Amphion/blob/main/egs/datasets/README.md#vctk)
 
 ### [Pretrained Checkpoints](https://github.com/open-mmlab/Amphion/blob/main/pretrained/README.md)
